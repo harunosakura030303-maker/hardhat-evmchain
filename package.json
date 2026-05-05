@@ -1,6 +1,6 @@
 {
   "name": "hardhat-evmchain",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hardhat plugin for automatic multi-chain configuration. Zero boilerplate — just install and your chains are ready.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
